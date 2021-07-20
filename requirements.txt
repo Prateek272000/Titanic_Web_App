@@ -2,3 +2,5 @@ streamlit=0.61.0
 numpy==1.20.1
 scikit-learn>=0.24.1
 Cython >= 0.29.23
+pickle==4.0 
+PIL==8.2.0
